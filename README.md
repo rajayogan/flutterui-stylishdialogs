@@ -1,16 +1,9 @@
-# stylingdialogs
+# Stylish Dialogs
 
-A new Flutter project.
+## How to use this repo ?
 
-## Getting Started
+Add the project to firebase, get google-services.json file and paste it into your app directory
 
-This project is a starting point for a Flutter application.
+### Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![screenshot_20181219-232252](https://user-images.githubusercontent.com/8137504/50238648-01426280-03e6-11e9-893e-857a1f3c088e.png)
